@@ -1,5 +1,5 @@
-# Hello-World
-My first one. for me to get a guide.
+# ABM MODELS 
 
+This model is designed to explore the purchase behavious of EVs in a small town 
 
-edit for readme
+This model is based on Netlogo and more details are illustrated in the report(pdf)
